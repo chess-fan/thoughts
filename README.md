@@ -31,7 +31,9 @@ Why is it good to have a checkpoint ?
 * at least until the checkpoint time the blockchain can not be manipulated anymore
 * the syncing speed for new users will be better since their clients with a newer checkpoint will decline clients which are on a fork
 
-Until the reported bug is fixed, my bot will add current block hashes in this project (see motivation and more there).
+Until the [reported bug](https://github.com/COINFORCHESS/ChessCoin/issues/1) is fixed, my bot will add current block hashes in this project (see motivation and more there):
+* [blockhashes of ChessCoin](https://github.com/chess-fan/blockhashes-of-ChessCoin)
+
 
 
 ## 2017 Dec 9: motivation
