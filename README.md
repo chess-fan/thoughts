@@ -1,6 +1,7 @@
 * about this blog
 * about me
 * thoughts:
+  * Dec 10: found data on archive.org for Feb 22 blockhashes
   * Dec 10: no uptodate synccheckpoint - for 18 months: 
    * 1. leaves your house open for manipulation attempts + 
    * 2. does not help newcomers (sync speed)
@@ -22,6 +23,12 @@ You can reply [here](https://github.com/chess-fan/thoughts/issues) (create an is
 
 
 # thoughts
+
+## 2017 Dec 10: lucky, b/c found data on archive.org for Feb 22 blockhashes
+
+For past data I could only find for 2017 Feb 22 blockhashes, see [here](https://github.com/chess-fan/blockhashes-of-ChessCoin/issues/1).
+* The good thing about it is that it is independent, unmanipulatable data since it's on archive.org
+
 
 ## 2017 Dec 10: no uptodate synccheckpoint - for 18 months - leaves your house open for manipulation attempts + does not help newcomers in terms of sync speed
 
