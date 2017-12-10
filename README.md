@@ -62,4 +62,4 @@ e.g. exchanges would ask:
 * can we trust the new wallet and the new dev(s)?
 * ...
 
-But let's not forget... first the [current dev](https://github.com/COINFORCHESS) needs to be contacted about his plans (why he did not update yet; his ongoing plans with ChessCoin; ...) before starting something that brings only negative thoughts, frustration into this all - this is surely not what we all need or want!
+But let's not forget... first the [current dev](https://github.com/COINFORCHESS) (aka: [Isolani159](https://bitcointalk.org/index.php?action=profile;u=745892)) needs to be contacted about his plans (why he did not update yet; his ongoing plans with ChessCoin; ...) before starting something that brings only negative thoughts, frustration into this all - this is surely not what we all need or want!
