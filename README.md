@@ -1,6 +1,7 @@
 * about this blog
 * about me
 * thoughts:
+  * Dec 10: managing tasks -> prioritize
   * Dec 10: found data on archive.org for Feb 22 blockhashes
   * Dec 10: no uptodate synccheckpoint - for 18 months: 
    * 1. leaves your house open for manipulation attempts + 
@@ -12,7 +13,7 @@
 # about this blog
 
 I use this "blog" to show my thoughts on the chess project:
-* it should help get things going since the project seems to have not progressed for long time (e.g. [source code](https://github.com/coinforchess/chesscoin) last updated in 2016; ...)
+* it should help get things going since the project seems to have not progressed for long time (e.g. [source code](https://github.com/coinforchess/chesscoin) last updated in 2016; I am actually the first one who [reported](https://github.com/COINFORCHESS/ChessCoin/issues/1) a bug in the bug tracker; ...)
 
 You can reply [here](https://github.com/chess-fan/thoughts/issues) (create an issue) or make a [PR](https://github.com/chess-fan/thoughts/pulls), or... just quote me on [bitcointalk](https://bitcointalk.org/index.php?topic=1510517.0) :-)
 
@@ -23,6 +24,12 @@ You can reply [here](https://github.com/chess-fan/thoughts/issues) (create an is
 
 
 # thoughts
+
+## 2017 Dec 10: managing tasks -> prioritize
+
+I've created today the: [MCT](https://github.com/chess-fan/MCT) (Managing ChessCoin tasks)
+* the idea is to priorize tasks
+* the other intent is that currently on bitcointalk ideas will just "disappear" over time while here people can respon to each issue directly
 
 ## 2017 Dec 10: lucky, b/c found data on archive.org for Feb 22 blockhashes
 
