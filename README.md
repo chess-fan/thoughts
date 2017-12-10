@@ -28,7 +28,7 @@ You can reply [here](https://github.com/chess-fan/thoughts/issues) (create an is
 ## 2017 Dec 10: managing tasks -> prioritize
 
 I've created today the: [MCT](https://github.com/chess-fan/MCT) (Managing ChessCoin tasks)
-* the idea is to priorize tasks
+* the idea is to priorize tasks, and assign them to willing people
 * the other intent is that currently on bitcointalk ideas will just "disappear" over time while here people can respon to each issue directly
 
 ## 2017 Dec 10: lucky, b/c found data on archive.org for Feb 22 blockhashes
