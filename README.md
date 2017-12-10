@@ -1,7 +1,9 @@
 * about this blog
 * about me
 * thoughts:
-  * Dec 10: no uptodate synccheckpoint: 1. leaves your house open for manipulation attempts + 2. does not help newcomers (sync speed)
+  * Dec 10: no uptodate synccheckpoint - for 18 months: 
+   * 1. leaves your house open for manipulation attempts + 
+   * 2. does not help newcomers (sync speed)
   * Dec 9: motivation
 
 <br><br>
@@ -21,15 +23,16 @@ You can reply [here](https://github.com/chess-fan/thoughts/issues) (create an is
 
 # thoughts
 
-## 2017 Dec 10: no uptodate synccheckpoint leaves your house open for manipulation attempts + does not help newcomers in terms of sync speed
+## 2017 Dec 10: no uptodate synccheckpoint - for 18 months - leaves your house open for manipulation attempts + does not help newcomers in terms of sync speed
 
-The current ChessCoin v1.0.0.0-g32a928e has as checkpoint only the genesis block #0 (from: 2016 June 5):
+The current ChessCoin (v1.0.0.0-g32a928e) has as checkpoint only the genesis block #0 (from: 2016 June 5):
 
 ![cp](https://user-images.githubusercontent.com/34405095/33800354-b02b1f50-dd3e-11e7-9aed-5d61f48e9b89.png)
 
-Why is it good to have a checkpoint ?
-* at least until the checkpoint time the blockchain can not be manipulated anymore
-* the syncing speed for new users will be better since their clients with a newer checkpoint will decline clients which are on a fork
+Why is it good to have a checkpoint now after 18 months?
+* at least until the new checkpoint time the blockchain can not be manipulated anymore
+* the syncing speed for new users will be better 
+  * since their clients (with a newer checkpoint) will decline clients which are on a fork
 
 Until the [reported bug](https://github.com/COINFORCHESS/ChessCoin/issues/1) is fixed, my bot will add current block hashes in this project (see motivation and more there):
 * [blockhashes of ChessCoin](https://github.com/chess-fan/blockhashes-of-ChessCoin)
