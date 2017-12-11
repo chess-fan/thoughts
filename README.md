@@ -1,6 +1,7 @@
 * about this blog
 * about me
 * thoughts:
+  * Dec 11: created a new website + announcement of first tournament with prizes
   * Dec 10: managing tasks -> prioritize
   * Dec 10: found data on archive.org for Feb 22 blockhashes
   * Dec 10: no uptodate synccheckpoint - for 18 months: 
@@ -24,6 +25,10 @@ You can reply [here](https://github.com/chess-fan/thoughts/issues) (create an is
 
 
 # thoughts
+
+## Dec 11: created a new website + announcement of first tournament with prizes
+
+see [here](https://bitcointalk.org/index.php?topic=1510517.msg26137880#msg26137880)
 
 ## 2017 Dec 10: managing tasks -> prioritize
 
@@ -65,7 +70,7 @@ Anyways, be it 2013 or 2016, when I'd want to "test" something I take the freshe
 me:
 
 I can do that, yes (or also others). The source is free, and can be forked anytime...
-As a matter of fact, I have forked it now [here](https://github.com/chess-fan/ChessCoin)
+As a matter of fact, I have forked it now [here](https://github.com/chess-fan/ChessCoin_source)
 * main reason for now: to have the commit comments and with that also: a backup, so the source doesn't disappear
 
 The more important thing would be to "convince" then the majority to USE a possible "new version": e.g. exchanges, ...
