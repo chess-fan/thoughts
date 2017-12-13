@@ -1,6 +1,7 @@
 * about this blog
 * about me
 * thoughts:
+  * Dec 12: a forking situation
   * Dec 11: created a new website + announcement of first tournament with prizes
   * Dec 10: managing tasks -> prioritize
   * Dec 10: found data on archive.org for Feb 22 blockhashes
@@ -25,6 +26,11 @@ You can reply [here](https://github.com/chess-fan/thoughts/issues) (create an is
 
 
 # thoughts
+
+## Dec 12: fork situation
+
+This can happen when e.g. there are suddenly jumps in the net weight
+* see investigation [here](https://github.com/chess-fan/MCT/issues/15)
 
 ## Dec 11: created a new website + announcement of first tournament with prizes
 
@@ -82,3 +88,4 @@ e.g. exchanges would ask:
 * ...
 
 But let's not forget... first the [current dev](https://github.com/COINFORCHESS) (aka: [Isolani159](https://bitcointalk.org/index.php?action=profile;u=745892)) needs to be contacted about his plans (why he did not update yet; his ongoing plans with ChessCoin; ...) before starting something that brings only negative thoughts, frustration into this all - this is surely not what we all need or want!
+* see also my reply [here](https://bitcointalk.org/index.php?topic=1510517.msg26249114#msg26249114)
