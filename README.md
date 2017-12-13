@@ -1,6 +1,7 @@
 * about this blog
 * about me
 * thoughts:
+  * Dec 13: how strong is the ChessCoin network actually?
   * Dec 12: a forking situation
   * Dec 11: created a new website + announcement of first tournament with prizes
   * Dec 10: managing tasks -> prioritize
@@ -26,6 +27,10 @@ You can reply [here](https://github.com/chess-fan/thoughts/issues) (create an is
 
 
 # thoughts
+
+## Dec 13: how strong is the ChessCoin network actually?
+
+see [here](https://bitcointalk.org/index.php?topic=1510517.msg26249572#msg26249572)
 
 ## Dec 12: fork situation
 
