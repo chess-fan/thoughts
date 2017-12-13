@@ -1,6 +1,7 @@
 * about this blog
 * about me
 * thoughts:
+  * Dec 13: a whale woke up
   * Dec 13: how strong is the ChessCoin network actually?
   * Dec 12: a forking situation
   * Dec 11: created a new website + announcement of first tournament with prizes
@@ -27,6 +28,10 @@ You can reply [here](https://github.com/chess-fan/thoughts/issues) (create an is
 
 
 # thoughts
+
+## Dec 13: a whale woke up
+
+see [here](https://bitcointalk.org/index.php?topic=1510517.msg26245536#msg26245536)
 
 ## Dec 13: how strong is the ChessCoin network actually?
 
