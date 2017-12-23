@@ -1,6 +1,7 @@
 * about this blog
 * about me
 * thoughts:
+  * Dec 23: our first tournament was a big success
   * Dec 13: a whale woke up
   * Dec 13: how strong is the ChessCoin network actually?
   * Dec 12: a forking situation
@@ -28,6 +29,10 @@ You can reply [here](https://github.com/chess-fan/thoughts/issues) (create an is
 
 
 # thoughts
+
+## Dec 23: our first tournament was a big success
+
+* see the summary [here](https://github.com/chess-fan/MCT/issues/14#issuecomment-353729613)
 
 ## Dec 13: a whale woke up
 
