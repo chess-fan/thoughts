@@ -95,7 +95,7 @@ Anyways, be it 2013 or 2016, when I'd want to "test" something I take the freshe
 <br><br>
 me:
 
-I can do that, yes (or also others). The source is free, and can be forked anytime...
+I can do that, yes. The source is free, and can be forked anytime...
 As a matter of fact, I have forked it now [here](https://github.com/chess-fan/ChessCoin_source)
 * main reason for now: to have the commit comments and with that also: a backup, so the source doesn't disappear
 
@@ -108,4 +108,4 @@ e.g. exchanges would ask:
 * ...
 
 But let's not forget... first the [current dev](https://github.com/COINFORCHESS) (aka: [Isolani159](https://bitcointalk.org/index.php?action=profile;u=745892)) needs to be contacted about his plans (why he did not update yet; his ongoing plans with ChessCoin; ...) before starting something that brings only negative thoughts, frustration into this all - this is surely not what we all need or want!
-* see also my reply [here](https://bitcointalk.org/index.php?topic=1510517.msg26249114#msg26249114)
+* see also my reply [here](https://bitcointalk.org/index.php?topic=1510517.msg26249114#msg26249114) (>50% network support, ...)
