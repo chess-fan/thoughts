@@ -1,6 +1,7 @@
 * about this blog
 * about me
 * thoughts:
+  * Dec 24: preliminary end result of our tournament series
   * Dec 23: our first tournament was a big success
   * Dec 13: a whale woke up
   * Dec 13: how strong is the ChessCoin network actually?
@@ -29,6 +30,10 @@ You can reply [here](https://github.com/chess-fan/thoughts/issues) (create an is
 
 
 # thoughts
+
+## Dec 24: preliminary end result of our tournament series
+
+* see [here](https://github.com/chess-fan/MCT/issues/14#issuecomment-353799634)
 
 ## Dec 23: our first tournament was a big success
 
