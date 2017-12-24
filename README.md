@@ -42,6 +42,9 @@ I am wondering if the ChessCoin community actually values what I do
 * it all costs time, and time is not free
 * from my impression so far the community is not big :-(
 
+see also:
+* [here](https://bitcointalk.org/index.php?topic=1510517.msg26831147#msg26831147)
+
 
 ## Dec 24: preliminary end result of our tournament series
 
