@@ -1,6 +1,7 @@
 * about this blog
 * about me
 * thoughts:
+  * Dec 24: UNHAPPY about donations
   * Dec 24: preliminary end result of our tournament series
   * Dec 23: our first tournament was a big success
   * Dec 13: a whale woke up
@@ -30,6 +31,16 @@ You can reply [here](https://github.com/chess-fan/thoughts/issues) (create an is
 
 
 # thoughts
+
+## Dec 24: UNHAPPY about donations
+
+Truth be told, I am unhappy that there are no donations:
+* the only donations so far were by 1 person and these were on Dec 11 + 12
+
+I am wondering if the ChessCoin community actually values what I do
+* it all costs time, and time is not free
+* from my impression so far the community is not big :-(
+
 
 ## Dec 24: preliminary end result of our tournament series
 
