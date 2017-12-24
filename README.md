@@ -13,7 +13,7 @@
   * Dec 10: no uptodate synccheckpoint - for 18 months: 
    * 1. leaves your house open for manipulation attempts + 
    * 2. does not help newcomers (sync speed)
-  * Dec 9: motivation
+  * Dec 9: my motivation as developper
 
 <br><br>
 
@@ -95,7 +95,7 @@ Until the [reported bug](https://github.com/COINFORCHESS/ChessCoin/issues/1) is 
 
 
 
-## 2017 Dec 9: motivation
+## 2017 Dec 9: my motivation as dev
 
 - replying to:
  > You are exactly the right one who can build us a new wallet... (see [here](https://bitcointalk.org/index.php?topic=1510517.msg26045773#msg26045773))
