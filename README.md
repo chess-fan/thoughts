@@ -19,7 +19,7 @@
 
 # about this blog
 
-I use this "blog" to show my thoughts on the chess project:
+I use this blog to show my thoughts on the ChessCoin project:
 * it should help get things going since the project seems to have not progressed for long time (e.g. [source code](https://github.com/coinforchess/chesscoin) last updated in 2016; I am actually the first one who [reported](https://github.com/COINFORCHESS/ChessCoin/issues/1) a bug in the bug tracker; ...)
 
 You can reply [here](https://github.com/chess-fan/thoughts/issues) (create an issue) or make a [PR](https://github.com/chess-fan/thoughts/pulls), or... just quote me on [bitcointalk](https://bitcointalk.org/index.php?topic=1510517.0) :-)
@@ -28,6 +28,7 @@ You can reply [here](https://github.com/chess-fan/thoughts/issues) (create an is
 * My user account on bitcointalk is [chessfan](https://bitcointalk.org/index.php?action=profile;u=1372252)
 * If you like what I do, send me "your appreciation" to this CHESS address: 
   * Ce7kSuKGoS3f5bQkmxLmXKfQjQPH1KyrLc
+  * read more [here](https://chess-fan.github.io/#donate)
 
 
 # thoughts
@@ -52,20 +53,20 @@ I am wondering if the ChessCoin community actually values what I do
 
 ## Dec 13: a whale woke up
 
-see [here](https://bitcointalk.org/index.php?topic=1510517.msg26245536#msg26245536)
+* see [here](https://bitcointalk.org/index.php?topic=1510517.msg26245536#msg26245536)
 
 ## Dec 13: how strong is the ChessCoin network actually?
 
-see [here](https://bitcointalk.org/index.php?topic=1510517.msg26249572#msg26249572)
+* see [here](https://bitcointalk.org/index.php?topic=1510517.msg26249572#msg26249572)
 
 ## Dec 12: fork situation
 
-This can happen when e.g. there are suddenly jumps in the net weight
+This can happen when e.g. there are suddenly jumps in the net weight (e.g. a whale goes online): 
 * see investigation [here](https://github.com/chess-fan/MCT/issues/15)
 
 ## Dec 11: created a new website + announcement of first tournament with prizes
 
-see [here](https://bitcointalk.org/index.php?topic=1510517.msg26137880#msg26137880)
+* see [here](https://bitcointalk.org/index.php?topic=1510517.msg26137880#msg26137880)
 
 ## 2017 Dec 10: managing tasks -> prioritize
 
@@ -75,7 +76,7 @@ I've created today the: [MCT](https://github.com/chess-fan/MCT) (Managing ChessC
 
 ## 2017 Dec 10: lucky, b/c found data on archive.org for Feb 22 blockhashes
 
-For past data I could only find for 2017 Feb 22 blockhashes, see [here](https://github.com/chess-fan/blockhashes-of-ChessCoin/issues/1).
+For past data I could only find for 2017 Feb 22 block hashes, see [here](https://github.com/chess-fan/blockhashes-of-ChessCoin/issues/1).
 * The good thing about it is that it is independent, unmanipulatable data since it's on archive.org
 
 
@@ -114,8 +115,8 @@ The more important thing would be to "convince" then the majority to USE a possi
 
 And that moment would - short term at least - not be to the benefit of the coin (price goes South... or worse, e.g. coin gets delisted on the exchange(s))
 e.g. exchanges would ask: 
-* why does the original dev not do this? did he leave?
-* can we trust the new wallet and the new dev(s)?
+* Why does the original dev not do this? Did he leave?
+* Can we trust the new wallet, and the new dev?
 * ...
 
 But let's not forget... first the [current dev](https://github.com/COINFORCHESS) (aka: [Isolani159](https://bitcointalk.org/index.php?action=profile;u=745892)) needs to be contacted about his plans (why he did not update yet; his ongoing plans with ChessCoin; ...) before starting something that brings only negative thoughts, frustration into this all - this is surely not what we all need or want!
