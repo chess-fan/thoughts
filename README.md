@@ -1,6 +1,7 @@
 * about this blog
 * about me
 * thoughts:
+  * Dec 25: good news: next tournaments coming; roadmap + poll review
   * Dec 25: looking back at our tournament series and our TCCT group
   * Dec 24: UNHAPPY about donations
   * Dec 24: preliminary end result of our tournament series
@@ -33,6 +34,11 @@ You can reply [here](https://github.com/chess-fan/thoughts/issues) (create an is
 
 
 # thoughts
+
+## Dec 25: good news: next tournaments coming; roadmap + poll review
+
+* Good news: we've already funds for our next chess tournaments #3 and #4. Soon 2 polls about our dev situation will start! And the roadmap draft is updated more: 
+  * https://bitcointalk.org/index.php?topic=1510517.msg26937275#msg26937275
 
 ## Dec 25: looking back at our tournament series and our TCCT group
 
