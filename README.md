@@ -1,6 +1,7 @@
 * about this blog
 * about me
 * thoughts:
+  * Dec 25: looking back at our tournament series and our TCCT group
   * Dec 24: UNHAPPY about donations
   * Dec 24: preliminary end result of our tournament series
   * Dec 23: our first tournament was a big success
@@ -33,14 +34,33 @@ You can reply [here](https://github.com/chess-fan/thoughts/issues) (create an is
 
 # thoughts
 
+## Dec 25: looking back at our tournament series and our TCCT group
+
+We've finished successfully our first tournament series:
+* we have had over 60 players in both tournaments on this weekend
+  * I am especially happy that in the top6 list we have longterm lichess users:
+  * 50% of 'em are on lichess since at least 18 months
+* the average rating of the players was around 1684
+  * we had 3 players who had >2000 rating (see also the rating distribution in the picture below)
+* we played in tournament #2 more games with less players
+  * in average we had 1 game every minute
+* our [TCCT group](https://lichess.org/team/tcct) has now 8 members with over 11000 tournament points:
+  * we have strong team members: the top5 have an average blitz rating of: 1988
+  * I envision that one day we can team battle other teams on lichess :-)
+
+
+![end_result2](https://user-images.githubusercontent.com/34405095/34335792-e053a886-e951-11e7-8a5f-ea10b3a1f808.png)
+
+
+
 ## Dec 24: UNHAPPY about donations
 
-Truth be told, I am unhappy that there are no donations:
+Truth be told, I am unhappy that there are no more donations:
 * the only donations so far were by 1 person and these were on Dec 11 + 12
 
-I am wondering if the ChessCoin community actually values what I do
+I'm wondering if the ChessCoin community actually values what I do?
 * it all costs time, and time is not free
-* from my impression so far the community is not big :-(
+* from my impression so far: the community is not big :-(
 
 see also:
 * [here](https://bitcointalk.org/index.php?topic=1510517.msg26831147#msg26831147)
