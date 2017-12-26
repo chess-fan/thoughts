@@ -1,6 +1,7 @@
 * about this blog
 * about me
 * thoughts:
+  * Dec 26: calming people down; why I selected lichess; more donations please
   * Dec 25: good news: next tournaments coming; roadmap + poll review
   * Dec 25: looking back at our tournament series and our TCCT group
   * Dec 24: UNHAPPY about donations
@@ -34,6 +35,10 @@ You can reply [here](https://github.com/chess-fan/thoughts/issues) (create an is
 
 
 # thoughts
+
+## Dec 26: calming people down; why I selected lichess; more donations please
+
+* see [here](https://bitcointalk.org/index.php?topic=1510517.msg26975456#msg26975456)
 
 ## Dec 25: good news: next tournaments coming; roadmap + poll review
 
