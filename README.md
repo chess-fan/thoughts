@@ -1,6 +1,7 @@
 * about this blog
 * about me
 * thoughts:
+  * Dec 26: we have now over 900k blocks, and I am happy that I have mined this block
   * Dec 26: calming people down; why I selected lichess; more donations please
   * Dec 25: good news: next tournaments coming; roadmap + poll review
   * Dec 25: looking back at our tournament series and our TCCT group
@@ -35,6 +36,23 @@ You can reply [here](https://github.com/chess-fan/thoughts/issues) (create an is
 
 
 # thoughts
+
+## Dec 26: we have now over 900k blocks, and I am happy that I have mined this block
+
+Congrats everybody:
+* we passed today block [#900000](https://www.blockexperts.com/chess/height/900000) in our blockchain, at: 2017-12-26 03:27:39 UTC!
+
+And I am especially happy that I mined this block :-)
+* with my [donation address](https://chess-fan.github.io/#donate): Ce7kSuKGoS3f5bQkmxLmXKfQjQPH1KyrLc
+* see txid: abfa1d91619917ba1b3a5ba5d2badf2349200bdb9eb8455839adc1db3d952ce5
+
+![900ka](https://user-images.githubusercontent.com/34405095/34356785-4621e55c-ea41-11e7-9229-bdebadf8c3dd.png)
+
+<br>
+
+![900kb](https://user-images.githubusercontent.com/34405095/34356791-4d21faf4-ea41-11e7-8827-ddbe6cc82067.png)
+
+<br>
 
 ## Dec 26: calming people down; why I selected lichess; more donations please
 
