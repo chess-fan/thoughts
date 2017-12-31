@@ -1,6 +1,7 @@
 * about this blog
 * about me
 * thoughts:
+  * Dec 31: prize distribution of chess tournaments (#1 and #2)
   * Dec 26: we have now over 900k blocks, and I am happy that I have mined this block
   * Dec 26: calming people down; why I selected lichess; more donations please
   * Dec 25: good news: next tournaments coming; roadmap + poll review
@@ -36,6 +37,22 @@ You can reply [here](https://github.com/chess-fan/thoughts/issues) (create an is
 
 
 # thoughts
+
+## Dec 31: prize distribution of chess tournaments (#1 and #2)
+The prizes for our first ever tournament held will be soon paid out (this evening probably). The preliminary standings are:
+* OnEBiGHoLE: 7500 CHESS
+* ivan376: 3750 CHESS
+* Aegipto: 1875 CHESS
+
+The overall winner: OnEBiGHoLE is a generous person. Why?
+* He donated what he has won (7500 CHESS) back to the tournament pot
+* If that is not cool, then what is ?
+
+All info about the rules, prizes: 
+* see [here](https://github.com/chess-fan/MCT/issues/14).
+
+Preparations for tournaments #3 and #4 are ongoing [here](https://github.com/chess-fan/MCT/issues/20).
+
 
 ## Dec 26: we have now over 900k blocks, and I am happy that I have mined this block
 
