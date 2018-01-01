@@ -41,7 +41,7 @@ You can reply [here](https://github.com/chess-fan/thoughts/issues) (create an is
 ## Dec 31: prize distribution of chess tournaments (#1 and #2)
 The prizes for our first ever tournament held will be soon paid out (this evening probably). The preliminary standings are:
 * OnEBiGHoLE: 7500 CHESS
-* ivan376: 3750 CHESS
+* ivan376: 3750 CHESS ([paid out](https://bitcointalk.org/index.php?topic=1510517.msg27286158#msg27286158))
 * Aegipto: 1875 CHESS
 
 The overall winner: OnEBiGHoLE is a generous person. Why?
