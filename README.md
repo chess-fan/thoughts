@@ -1,10 +1,13 @@
 * about:
   * this blog
   * about me
+  
 * thoughts:
 
+<br><br>
+
 2018:
-  * soon
+  * find my new blog [here](https://chess-fan.github.io/blog/)
   
 2017:
   * Dec 31: prize distribution of chess tournaments (#1 and #2)
