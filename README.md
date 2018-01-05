@@ -1,6 +1,12 @@
-* about this blog
-* about me
+* about:
+  * this blog
+  * about me
 * thoughts:
+
+2018:
+  * soon
+  
+2017:
   * Dec 31: prize distribution of chess tournaments (#1 and #2)
   * Dec 26: we have now over 900k blocks, and I am happy that I have mined this block
   * Dec 26: calming people down; why I selected lichess; more donations please
