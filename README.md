@@ -171,6 +171,7 @@ Why is it good to have a checkpoint?
 
 Until the [reported bug](https://github.com/COINFORCHESS/ChessCoin/issues/1) is fixed, my bot will add current block hashes in this project (see motivation and more there) to "increase the trust" into ChessCoin's blockchain:
 * [blockhashes of ChessCoin](https://github.com/chess-fan/blockhashes-of-ChessCoin)
+* [announcement](https://bitcointalk.org/index.php?topic=1510517.msg26055242#msg26055242)
 
 
 
